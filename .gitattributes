@@ -1,0 +1,2 @@
+# Preserve the supplied whitespace-only and empty-field TSV test examples.
+toy_data.tsv -whitespace

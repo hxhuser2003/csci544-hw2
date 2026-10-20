@@ -1,0 +1,33 @@
+Training reviews: 8000
+Validation reviews: 1000
+Testing reviews: 1000
+Vocabulary size: 5003
+FFNN Best epoch: 5
+FFNN Validation Loss: 0.3877
+FFNN Testing Loss: 0.4130
+FFNN Testing Accuracy: 0.8320
+FFNN Testing Precision: 0.8360
+FFNN Testing Recall: 0.8260
+FFNN Testing F1-score: 0.8310
+LSTM Best epoch: 4
+LSTM Validation Loss: 0.4030
+LSTM Testing Loss: 0.4253
+LSTM Testing Accuracy: 0.8180
+LSTM Testing Precision: 0.8285
+LSTM Testing Recall: 0.8020
+LSTM Testing F1-score: 0.8150
+Transformer Best epoch: 5
+Transformer Validation Loss: 0.4238
+Transformer Testing Loss: 0.4443
+Transformer Testing Accuracy: 0.8100
+Transformer Testing Precision: 0.8229
+Transformer Testing Recall: 0.7900
+Transformer Testing F1-score: 0.8061
+MLM-Transformer Best epoch: 5
+MLM-Transformer Validation Loss: 0.4214
+MLM-Transformer Testing Loss: 0.4345
+MLM-Transformer Testing Accuracy: 0.8020
+MLM-Transformer Testing Precision: 0.8069
+MLM-Transformer Testing Recall: 0.7940
+MLM-Transformer Testing F1-score: 0.8004
+MLM final training loss: 6.2845
